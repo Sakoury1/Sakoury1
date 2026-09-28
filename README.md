@@ -9,8 +9,29 @@
 </p>
 
 <p align="center">
-  I design and build batch and streaming data platforms, from ingestion to data warehouse and analytics-ready models.
+  I turn messy, high-volume data into <b>reliable, analytics-ready platforms</b>.<br/>
+  Batch or streaming, on-prem or cloud, I build pipelines that run every day without anyone babysitting them.
 </p>
+
+---
+
+## 🚀 What I Do
+
+- **Build end-to-end pipelines**: ingestion (Kafka, SSIS, Sqoop) → processing (Spark) → warehouse (Snowflake, PostgreSQL)
+- **Design data warehouses**: star schemas, incremental loads, SCDs, and models that analysts actually trust
+- **Orchestrate at scale**: Airflow DAGs with retries, alerting, backfills, and idempotent tasks
+- **Transform with dbt**: modular SQL, tests, documentation, and CI on every pull request
+- **Ship it properly**: Dockerized, version-controlled, monitored, and deployable on AWS
+
+---
+
+## 🧠 How I Work
+
+- **Reliability first**: a pipeline that fails silently is worse than no pipeline
+- **Data quality is a feature**: validation, tests, and freshness checks built in, not added later
+- **Idempotent by design**: any job can be re-run safely
+- **Cost-aware**: partitioning, pruning, and right-sized compute, not just "it works"
+- **Documented**: if the next engineer can't understand it, it's not finished
 
 ---
 
@@ -34,6 +55,25 @@
 
 ---
 
+<!--
+## 📈 Impact
+شيل علامات التعليق دي وحط أرقامك الحقيقية بس:
+
+- Reduced pipeline runtime from **X hours to Y minutes** by optimizing Spark jobs
+- Migrated **N legacy SSIS packages** to Airflow + dbt
+- Processed **X million records/day** with Kafka + Spark Streaming
+
+---
+-->
+
+## 🔭 Currently
+
+- 🔧 Building a real-time pipeline: Kafka → Spark Streaming → S3 → Snowflake
+- 📚 Deepening my knowledge in data modeling and Spark performance tuning
+- 💬 Open to Data Engineer opportunities
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -44,7 +84,9 @@
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/zyad-sakoury/) · [Email](zezosakoury7@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/zyad-sakoury/) · [Email](mailto:zezosakoury7@gmail.com)
+
+> *"Good data engineering is invisible: dashboards are correct, pipelines are quiet, and nobody has to ask why the numbers changed."*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=120&section=footer" />
