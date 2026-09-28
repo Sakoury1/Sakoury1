@@ -34,26 +34,17 @@
 
 ---
 
-## 📌 Featured Projects
-
-- **[Project 1](https://github.com/YOUR_USERNAME/project-1)**: Real-time pipeline using Kafka + Spark Streaming on AWS
-- **[Project 2](https://github.com/YOUR_USERNAME/project-2)**: Airflow + dbt ELT into Snowflake (Star Schema)
-- **[Project 3](https://github.com/YOUR_USERNAME/project-3)**: Dockerized batch processing with Spark & Hadoop
-- **[Project 4](https://github.com/YOUR_USERNAME/project-4)**: PostgreSQL to Snowflake incremental load pipeline
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Sakoury1/Sakoury1/output/snake.svg" alt="snake" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-[LinkedIn](https://linkedin.com/in/yourname) · [Email](mailto:you@example.com)
+[LinkedIn](https://www.linkedin.com/in/zyad-sakoury/) · [Email](zezosakoury7@gmail.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=120&section=footer" />
