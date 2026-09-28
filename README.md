@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**Sakoury1/Sakoury1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer** focused on building reliable batch and streaming data pipelines, from ingestion to data warehouse.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | |
+|---|---|
+| **Processing** | Spark, Kafka, Hadoop |
+| **Orchestration** | Airflow, dbt, SSIS |
+| **Warehouse & DB** | Snowflake, PostgreSQL, SQL Server |
+| **Languages** | Python, SQL, Bash |
+| **Cloud & DevOps** | AWS, Docker, Linux, Git |
+
+## Featured Projects
+
+- **[Real-time Pipeline](link)**: Kafka → Spark Streaming → S3
+- **[ELT Pipeline](link)**: Airflow + dbt → Snowflake
+- **[Batch Processing](link)**: Dockerized Spark & Hadoop
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/yourname) · [Email](mailto:you@example.com)
